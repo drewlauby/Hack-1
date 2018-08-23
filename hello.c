@@ -1,5 +1,5 @@
 /**
- * Author: Daniel Cornelius
+ * Author: Drew Lauby
  * Date: 2018/08/23
  *
  * A simple hello world program in C
